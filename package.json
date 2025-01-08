@@ -2,6 +2,7 @@
   "name": "rspress-demo",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://dragooncjw.github.io/private-rspress-demo/",
   "scripts": {
     "build": "rspress build",
     "dev": "rspress dev",
